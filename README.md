@@ -30,7 +30,6 @@ This project was created to practice basic Python concepts like:
 - Python 3.x
 - No external libraries needed
 
-## 💻 How to Run
 
 ```bash
 python snake_water_gun.py
